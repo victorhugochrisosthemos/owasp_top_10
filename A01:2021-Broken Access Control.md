@@ -8,10 +8,10 @@
 - Se é gerado um id de usuário, ao jogar em outro navegador funciona, mas o correto seria esse id ser válido somente para o browser inicial, para um IP ou um cliente somente<br>
 
 ### Exemplo
--> Um usuário acessa uma página da aplicação dessa maneira:<br>
-    https://curso_online.com/nota_processo_seletivo/usuario123<br>
--> Então faz um teste em trocar um parâmetro da URL:<br>
-    https://curso_online.com/nota_processo_seletivo/usuario456<br>
+-> Um usuário acessa uma página da aplicação dessa maneira:<br><br>
+    https://curso_online.com/nota_processo_seletivo/usuario123<br><br>
+-> Então faz um teste em trocar um parâmetro da URL:<br><br>
+    https://curso_online.com/nota_processo_seletivo/usuario456<br><br>
 -> O risco no exemplo é conseguir acessar os dados, ou seja, há quebra de controle de acesso, vendo informações que não deveria sobre outros usuários<br>
 
 ## Como evitar?
