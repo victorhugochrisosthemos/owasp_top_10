@@ -1,12 +1,8 @@
-- O que é OWASP?
-  
-  -> Open Wen Application Security Project
-  
-  -> É uma comunidade online que produz artigos sobre a segurança de aplicativos web
-  
-- Site? https://owasp.org/
-- 
-- Como ler a vulnerabilidade?
+- O que é OWASP?<br>
+  -> Open Wen Application Security Project<br>
+  -> É uma comunidade online que produz artigos sobre a segurança de aplicativos web<br>
+- Site? https://owasp.org/<br>
+- Como ler a vulnerabilidade?<br>
 - 
   -> Exemplo: A01:2021-Broken Access Control
   
