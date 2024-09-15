@@ -1,7 +1,7 @@
 # A01:2021-Broken Access Control
 - Quebra do controle de acesso de algum aplicativo
 - Muitos sistemas não validam como é feito o controle de acesso
-- Uma aplicação tem um login e senha, um token de sessão, um cookie, um id de usuário na sessão, data storage
+- Uma aplicação geralmente tem um login e senha, um token de sessão, um cookie, um id de usuário na sessão, data storage
 - Mas esse controle de acesso não é bem implementado
 
 ## Como é explorada?
