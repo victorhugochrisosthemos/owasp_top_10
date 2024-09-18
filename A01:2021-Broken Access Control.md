@@ -11,9 +11,9 @@
 
 ### Exemplo
 -> Um usuário acessa uma página da aplicação dessa maneira:<br><br>
-    __https://curso_online.com/nota_processo_seletivo/usuario123__<br><br>
+    __https://curso_online.com/nota_processo_seletivo/<span style="color:blue">usuario123</span>__<br><br>
 -> Então faz um teste em trocar um parâmetro da URL:<br><br>
-    __https://curso_online.com/nota_processo_seletivo/usuario456__<br><br>
+    __https://curso_online.com/nota_processo_seletivo/<span style="color:blue">usuario456</span>__<br><br>
 -> O risco no exemplo é conseguir acessar os dados, ou seja, há quebra de controle de acesso, vendo informações que não deveria sobre outros usuários<br>
 
 ## Como evitar?
