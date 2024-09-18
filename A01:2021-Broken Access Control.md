@@ -19,7 +19,7 @@
 ## Como evitar?
 - Todo recurso que não é público precisa enviar informações de validação desse usuário como id de usuário ativo por parâmetro na url, no body ou na requisição e validar se é autenticado e autorizado<br>
   -> Autenticação é validar a identidade do usuário<br>
-  -> Autorização é verificar se o usuário tem permissão para acessar o requerimento requerido<br>
+  -> Autorização é verificar se o usuário tem permissão para acessar o requerimento feito<br>
 - Token JWT<br>
   -> JSON Web Token<br>
   -> É um padrão seguro de troca de informações, realizando autenticação e autorização<br>
