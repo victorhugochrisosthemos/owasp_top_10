@@ -2,7 +2,7 @@
 ## O que é
 - Essa vulnerabilidade trata de falhas no uso de criptografias<br>
 - Pode estar relacionado a criptografias fracas como MD5 e SHA-1, exposição a chaves de permissão, não colocar criptografia onde devia ou não utilizar corretamente o protocolo TLS<br>
-- O protocolo TLS substitui o SSL, que já tem um tipo de ataque para quebrá-lo (POODLE)<br>
+- O protocolo TLS substitui o SSL, o protocolo SSL já tem um tipo de ataque para quebrá-lo (POODLE)<br>
 ## Como é explorada?
 - Se um banco de dados conter uma coluna de senhas com criptografia MD5, se alguém tiver acesso a esse dado criptografado pode usar uma ferramenta de quebra de criptografia MD5 para saber a real senha de um usuário<br>
 ### Exemplo
