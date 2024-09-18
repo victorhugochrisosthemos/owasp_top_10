@@ -17,4 +17,4 @@
   10 -> A10:2021-Server-Side Request Forgery<br>
 #### Como ler a vulnerabilidade?<br>
   -> Exemplo: A01:2021-Broken Access Control<br>
-  -> Significa que a vulnerabilidade Broken Access Control foi classificada em primeiro lugar no ano de 2021 no top 10 da OWASP<br>
+  -> Significa que a vulnerabilidade Broken Access Control foi classificada em primeiro lugar no ano de 2021 no top 10 da OWASP daquele ano<br>
