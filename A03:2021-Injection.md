@@ -6,25 +6,25 @@
 - Esse problema ocorre quando não é feito uma sanitização dos dados de entrada do usuário<br>
 ## Como se aplica?
 - Existem diversos tipos de injection:<br>
-<strong>-> SQL Injection<br></strong>
+<strong>1 -> SQL Injection<br></strong>
 Injeção de código de banco de dados (SQL)<br>
-<strong>-> Command Injection<br></strong>
+<strong>2 -> Command Injection<br></strong>
 Injeção de comandos interpretados pelo sistema operacional<br>
-<strong>-> Cross-Site Scripting(XSS)<br></strong>
+<strong>3 -> Cross-Site Scripting(XSS)<br></strong>
 Injeção de scripts de JavaScript<br>
-<strong>-> LDAP Injection<br></strong>
+<strong>4 -> LDAP Injection<br></strong>
 Injeção de comandos executados pelo protocolo que mantêm serviços de diretório de uma rede(Lightweight Directory Access Protocol)<br>
-<strong>-> XML Injection<br></strong>
+<strong>5 -> XML Injection<br></strong>
 Injeção de consultas XML<br>
-<strong>-> Code Injection<br></strong>
+<strong>6 -> Code Injection<br></strong>
 Injeção de código em PHP, Python ou outra linguagem que possivelmente rode no ambiente do servidor<br>
-<strong>-> NoSQL Injection<br></strong>
+<strong>7 -> NoSQL Injection<br></strong>
 Injeção de códigos que rodam em bancos de dados NoSQL<br>
-<strong>-> XPath Injection<br></strong>
+<strong>8 -> XPath Injection<br></strong>
 Injeção de comandos de XPath (XML Path Language) que gerencia dados XML<br>
-<strong>->Host Header Injection<br></strong>
+<strong>9 ->Host Header Injection<br></strong>
 Pode redirecionar o tráfego ao manipular o host  do cabeçalho HTTP de uma página<br>
-<strong>->Email Header Injection<br></strong>
+<strong>10 ->Email Header Injection<br></strong>
 Injeção de comandos de campos de cabeçalhos de emails, enviando emails não autorizados<br>
 ### Exemplo
 
