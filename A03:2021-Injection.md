@@ -23,7 +23,7 @@ Injeção de códigos que rodam em bancos de dados NoSQL<br>
 <strong>-> XPath Injection<br></strong>
 Injeção de comandos de XPath (XML Path Language) que gerencia dados XML<br>
 <strong>->Host Header Injection<br></strong>
-Pode redirecionar o tráfego ao manipular o host  do cabeçalho HTTP de uma página
+Pode redirecionar o tráfego ao manipular o host  do cabeçalho HTTP de uma página<br>
 <strong>->Email Header Injection<br></strong>
 Injeção de comandos de campos de cabeçalhos de emails, enviando emails não autorizados<br>
 ### Exemplo
