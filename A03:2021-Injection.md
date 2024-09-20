@@ -6,7 +6,7 @@
 - Esse problema ocorre quando não é feito uma sanitização dos dados de entrada do usuário<br>
 ## Como se aplica?
 - Existem diversos tipos de injection:<br>
--> SQL Injection<br>
+<strong>-> SQL Injection<br></strong>
 Injeção de código de banco de dados (SQL)<br>
 -> Command Injection<br>
 Injeção de comandos interpretados pelo sistema operacional<br>
